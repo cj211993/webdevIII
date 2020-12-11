@@ -1,0 +1,22 @@
+.main-header {
+    background: url(../img/g1.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    
+}
+
+/* showcase */
+.main-header .showcase {
+    padding: 100px;
+}
+
+.main-header .showcase .fa-4x {
+    margin: 5px 10px;
+}
+
+.logo img {
+    width: 220px;
+    height: 55px;
+}
